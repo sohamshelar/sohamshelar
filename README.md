@@ -6,13 +6,8 @@
 <p><strong>Learner & College Student.
 <h2 align="center">Leetcode Info<h2>
 
-
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/sohamshelar?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
 - Web Development
-<img src="https://github.com/sohamshelar/sohamshelar/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+
 
 <h3 align="center">
 Statistics
@@ -21,7 +16,7 @@ Statistics
 
 <p align="center">
   <a href="https://github.com/sohamshelar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamshelar&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  
   </a>
 </p>
 
