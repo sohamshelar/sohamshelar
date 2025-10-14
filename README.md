@@ -46,7 +46,7 @@ Statistics
 </a>
 </p>
 
-![Yuvraj Rathod's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamshelar&custom_title=Rathod%20Yuvraje's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Soham Shelar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamshelar&custom_title=Rathod%20Yuvraje's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!---
 sohamshelar/sohamshelar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
