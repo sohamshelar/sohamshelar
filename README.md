@@ -3,11 +3,6 @@
 <div align="center" width="50">
 <img src="https://github.com/sohamshelar/sohamshelar/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sohamshelar" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>Learner & College Student.
-<h2 align="center">Leetcode Info<h2>
-
-- Web Development
-
 
 <h3 align="center">
 Statistics
